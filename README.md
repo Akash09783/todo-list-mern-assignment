@@ -1,6 +1,6 @@
 # SDE-1 (MERN Stack) To-Do List Application
 
-An assessment-ready, highly optimized full-stack **MERN To-Do List Application** crafted to meet the exact Figma specification and assignment requirements.
+ **MERN To-Do List Application** 
 
 ---
 
